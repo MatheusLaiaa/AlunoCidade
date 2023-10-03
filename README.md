@@ -5,7 +5,7 @@
 Nessa atividade proposta eu realizei uma atividade de banco de dados, onde eu criei duas tabelas, sendo elas a de aluno e a de cidades e inserindo os dados pedidos no enunciado e logo após eu realizei também oque estava proposto, que era a utilização do inner join. 
 
 ### Nome do arquivo
-alunoscidades.txt
+alunoscidades.sql
 
 ## Imagem do banco de dados
 
